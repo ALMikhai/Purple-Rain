@@ -1,2 +1,2 @@
 Purple Rain
-![](Purple Rain\MyRainSharp\MyRainSharp\MyRainSharp\Content\Desc.png)​
+![](MyRainSharp\MyRainSharp\MyRainSharp\Content\Desc.png)​

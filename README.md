@@ -1,3 +1,3 @@
-testing Storyboard and creating beautiful animations.
+testing Storyboard and creating animations.
 
 ![](Desc.png)​
